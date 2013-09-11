@@ -13,4 +13,4 @@ Text
 
 **RSS Feed Creator** - A program which can read text from other sources and put it in RSS format for syndication.
 
-**Vigenere / Vernam / Caesar ciphers ** - Encrypts and decrypts messages using a specific encryption method.
+**Vigenere / Vernam / Caesar ciphers** - Encrypts and decrypts messages using a specific encryption method.
