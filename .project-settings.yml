@@ -7,5 +7,5 @@ module-template: ! 'module MODULE_NAME where
 '
 ghc-args: []
 modules:
-  Main(Text/CountVowels.hs):
-    filename: Text/CountVowels.hs
+  Main(Text/PigLatin.hs):
+    filename: Text/PigLatin.hs
