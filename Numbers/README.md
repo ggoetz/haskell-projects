@@ -17,7 +17,7 @@ Numbers
 
 **Factorial finder** - Finds the factorial of a positive integer.
 
-**Fibonacci sequence** - Enter a number and have the program generate the Fibonacci sequence up to that number, or up to the n-th number.
+[**Fibonacci sequence**](./Fibonacci.hs) - Enter a number and have the program generate the Fibonacci sequence up to that number, or up to the n-th number.
 
 **Find Pi to the n-th digit** - Enter a number and have the program return pi up to that many decimal places.
 

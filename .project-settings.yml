@@ -6,4 +6,6 @@ module-template: ! 'module MODULE_NAME where
 
 '
 ghc-args: []
-modules: {}
+modules:
+  Main(Numbers/Fibonacci.hs):
+    filename: Numbers/Fibonacci.hs
