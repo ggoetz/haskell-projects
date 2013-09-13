@@ -7,7 +7,7 @@ Numbers
 
 **Closest pair problem** - Given _n_ points in a metric space, find a pair of points with the smallest distance between them. Ties can be broken up arbitrarily.
 
-**Collatz conjecture** - Start with a number _n > 1_. Print the Collatz sequence: if _n_ is even, divide it by 2. If _n_ is odd, multiply it by 3 and add 1. Terminate when _n == 1_.
+[**Collatz conjecture**](./Collatz.hs) - Start with a number _n > 1_. Print the Collatz sequence: if _n_ is even, divide it by 2. If _n_ is odd, multiply it by 3 and add 1. Terminate when _n == 1_.
 
 **Credit card validator** - Takes in a credit card number from a common credit card vendor and validates it to make sure it is a valid number (look into how credit cards use checksums). 
 
