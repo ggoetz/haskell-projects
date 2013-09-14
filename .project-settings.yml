@@ -7,5 +7,5 @@ module-template: ! 'module MODULE_NAME where
 '
 ghc-args: []
 modules:
-  Main(Numbers/Fibonacci.hs):
-    filename: Numbers/Fibonacci.hs
+  Main(Numbers/Factorial.hs):
+    filename: Numbers/Factorial.hs
