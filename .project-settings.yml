@@ -6,6 +6,4 @@ module-template: ! 'module MODULE_NAME where
 
 '
 ghc-args: []
-modules:
-  Main(Numbers/Factorial.hs):
-    filename: Numbers/Factorial.hs
+modules: {}

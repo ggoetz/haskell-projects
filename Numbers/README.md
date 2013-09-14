@@ -15,7 +15,7 @@ Numbers
 
 **Dijkstras algorithm** - Lets the user specify a graph (list of edges) and then finds the shortest path between two edges.
 
-**Factorial finder** - Finds the factorial of a positive integer.
+[**Factorial finder**](./Factorial.hs) - Finds the factorial of a positive integer.
 
 [**Fibonacci sequence**](./Fibonacci.hs) - Enter a number and have the program generate the Fibonacci sequence up to that number, or up to the n-th number.
 
